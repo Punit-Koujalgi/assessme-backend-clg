@@ -1,0 +1,5 @@
+__pycache__
+venv
+venv.zip
+.*t5_squad_v1
+.*t5-base
